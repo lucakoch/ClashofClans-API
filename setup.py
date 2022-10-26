@@ -13,6 +13,7 @@ setup(
     # download_url="",
     license='MIT',
     packages=[''],
+    py_modules=["clashofclans"],
     install_requires=[
         '',
     ],
