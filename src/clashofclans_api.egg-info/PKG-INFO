@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: clashofclans-api
+Version: 0.0.1
+Summary: This is an easy to use API of the game Clash of Clans
+Home-page: https://github.com/Acul747/Clash-of-Clans-API
+Author: Luca Sebastian Koch
+Author-email: luca.sebastian.koch@gmail.com
+Project-URL: Bug Tracker, https://github.com/Acul747/Clash-of-Clans-API/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7s
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Clash-of-Clans-API
+
+This is an easy to use API for the game Clash of Clans
+
+## Disclaimer
+This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.
+For more information see Supercell’s Fan Content Policy: www.supercell.com/fan-content-policy.
