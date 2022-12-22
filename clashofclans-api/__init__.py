@@ -1,0 +1,1 @@
+from clashofclans import coc

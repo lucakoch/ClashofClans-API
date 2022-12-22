@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: clashofclans-api
+Version: 0.0.6
+Summary: This is an easy to use API of the game Clash of Clans
+Home-page: https://github.com/Acul747/Clash-of-Clans-API
+Author: Luca Sebastian Koch
+Author-email: luca.sebastian.koch@gmail.com
+License: MIT
+Keywords: Clash of Clans,clash of clans,coc,coc api,clashofclans,clashofclans api
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE
+
+NOT READY TO USE

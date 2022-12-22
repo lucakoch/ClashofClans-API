@@ -23,8 +23,7 @@ class coc:
             apitoken = self.apitoken
 
             clantag = rm_hashtag(clantag)
-            response_json, response = request(f"https://api.clashofclans.com/v1/clans/%23{clantag}/currentwar/leaguegroup",
-                                              apitoken)
+            response_json, response = request(f"https://api.clashofclans.com/v1/clans/%23{clantag}/currentwar/leaguegroup", apitoken)
 
             code, answer, response_json = awnsers(response, response_json)
             return code, answer, response_json
