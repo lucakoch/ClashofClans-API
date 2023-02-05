@@ -1,6 +1,18 @@
 ClashofClans-API
 ================
 
+.. image:: https://img.shields.io/pypi/v/clashofclans-api.svg
+    :target: https://pypi.org/project/clashofclans-api/
+    :alt: PyPi
+
+.. image:: https://img.shields.io/pypi/pyversions/clashofclans-api.svg
+    :target: https://pypi.org/project/clashofclans-api/
+    :alt: Supported Versions
+
+.. image:: https://img.shields.io/github/license/acul747/clashofclans-api.svg
+    :target: https://pypi.org/project/clashofclans-api/
+    :alt: MIT License
+
 ClashofClans-API is an easy to use API for the mobile game ClashofClans
 
 Installing
