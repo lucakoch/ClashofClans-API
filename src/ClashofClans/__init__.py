@@ -1,1 +1,1 @@
-from .main import ClashofClans
+from .main import ClashofClans as ClashofClans
